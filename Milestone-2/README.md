@@ -1,6 +1,6 @@
 # Infosys CodeGenie AI Explainer and Code Generator - Milestone-2
 # Code Generator 
-#n📜 Overview
+# 📜 Overview
 The primary goal of this project is to offer a straightforward way to assess the code generation capabilities of different LLMs. Instead of relying solely on subjective evaluation, this tool uses the radon library to provide quantitative metrics on code complexity, maintainability, and size. This data-driven approach allows for a more objective comparison of model performance.
 
 #n✨ Key Features
