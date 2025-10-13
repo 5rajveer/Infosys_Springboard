@@ -80,10 +80,7 @@ The notebook is configured to benchmark the following models. The example run fo
 |-------------------|--------------------------------------------------------------------------------------------------|-------------------------------|
 | DeepSeek-Coder-1.3B | ✅ Generated a correct, standard, and clean bubble sort implementation.                          | (4, 68.59, 7)                 |
 | Phi-2-2.7B         | ✅ Generated a correct and functional implementation, nearly identical to DeepSeek's output.     | (4, 68.59, 7)                 |
-| Gemma-2B-IT        | ❌ Failed to load due to a gated repository access error. This highlights the need for proper authentication. | N/A                           |
-| Stable-Code-3B     | ⚠️ Failed to generate valid code. It produced a list of descriptive requirements instead of the function itself, causing the radon analysis to fail. | (-1, -1, -1)                 |
-| Replit-Code-3B     | ❌ Failed to load due to a tokenizer attribute error (`vocab_size`), indicating a potential library compatibility issue. | N/A                           |
-
+| Stable-Code-3B     | ⚠️ Failed to generate valid code. It produced a list of descriptive requirements instead of the function itself, causing the radon analysis to fail. | (-1, -1, -1)                
 Analysis of Results
 From this single run, we can observe significant differences in model performance and reliability:
 
