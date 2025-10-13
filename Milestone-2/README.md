@@ -4,6 +4,12 @@ This project provides a comprehensive framework for benchmarking and evaluating 
 
 # Methodology & Approach
 The methodology is structured to provide a seamless workflow from model selection to performance visualization. The core approach involves three main stages: Generation, Evaluation, and Visualization.
+# About Model's
+| **Model**               | **Developer**     | **Parameters** | **Highlights (Hinglish mein)**                                                                                           |
+|------------------------|-------------------|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| DeepSeek-Coder-1.3B    | DeepSeek AI        | 1.3 Billion     | 2 trillion tokens pe train hua hai (87% code, 13% English + Chinese). 16K context window ke saath project-level code completion aur infilling karta hai. |
+| Phi-2-2.7B             | Microsoft          | 2.7 Billion     | Synthetic NLP aur filtered web data pe train hua hai. Reasoning, common sense aur language understanding mein strong hai. Open-source aur safe AI research ke liye design kiya gaya hai. |
+| Stable-Code-3B         | Stability AI       | 2.7 Billion     | 1.3 trillion tokens pe train hua hai across 18 programming languages. Long context (16K), Fill-in-the-Middle (FIM) aur rotary embeddings support karta hai. Kabhi-kabhi prompt se zyada code generate karta hai. |
 
 # Setup and Configuration:
 
