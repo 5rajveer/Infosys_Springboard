@@ -1,0 +1,1217 @@
+[
+    {
+        "timestamp": "2025-11-11T14:25:15.371189",
+        "user_id": "a649e210-75ae-4a4b-9655-8cab0cab9403",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T14:29:12.363594",
+        "user_id": "eb1eac1a-c069-4c48-8e57-5c785efe76f4",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T14:46:55.924791",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T14:51:50.488782",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:03:08.136843",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:07:27.922917",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:09:34.563628",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "query",
+        "query": "addition of two no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:09:49.135552",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "query",
+        "query": "addition of two no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:10:02.628837",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "feedback",
+        "query": "addition of two no",
+        "language": "",
+        "rating": 5,
+        "comments": "Very nice code"
+    },
+    {
+        "timestamp": "2025-11-11T15:42:16.824501",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:43:00.713651",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "query",
+        "query": "division of two no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:43:14.019121",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "query",
+        "query": "division of two no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T15:43:24.112922",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "feedback",
+        "query": "division of two no",
+        "language": "",
+        "rating": 4,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T15:47:03.838541",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T17:02:10.034489",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T17:03:02.419436",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome",
+        "language": "JavaScript",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T17:03:18.924558",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code to check palindrome",
+        "language": "",
+        "rating": 4,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T17:06:18.409995",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T17:08:11.580629",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T17:12:17.797165",
+        "user_id": "aiassistant@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:17:08.436834",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:18:12.677191",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "query",
+        "query": "generate a code to check candidate is available for vote",
+        "language": "C++",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:18:32.501723",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "feedback",
+        "query": "generate a code to check candidate is available for vote",
+        "language": "",
+        "rating": 5,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T18:21:02.643511",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:22:13.499664",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "query",
+        "query": "find the average of 100 no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:22:52.414173",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:22:58.476482",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "feedback",
+        "query": "from typing import List\n\ndef calculate_average(numbers: List[float]) -> float:\n    \"\"\"\n    Calculate",
+        "language": "",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:23:10.804606",
+        "user_id": "ai_1@gmail.com",
+        "activity_type": "feedback",
+        "query": "from typing import List\n\ndef calculate_average(numbers: List[float]) -> float:\n    \"\"\"\n    Calculate",
+        "language": "",
+        "rating": 4,
+        "comments": "nice explanation "
+    },
+    {
+        "timestamp": "2025-11-11T19:24:39.005243",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:25:43.415789",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check which no is greater in given three numbers ",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:25:58.731999",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check which no is greater in given three numbers ",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:26:07.990010",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code to check which no is greater in given three numbers ",
+        "language": "",
+        "rating": 4,
+        "comments": "good"
+    },
+    {
+        "timestamp": "2025-11-11T19:29:42.778066",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:30:00.286909",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "def find_greatest(num1: int | float, num2: int | float, num3: int | float) -> int | float:\n    \"\"\"\n ",
+        "language": "",
+        "rating": 5,
+        "comments": "Good Explanation "
+    },
+    {
+        "timestamp": "2025-11-11T19:39:29.544394",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:49:47.689764",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:50:08.947613",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:50:35.117862",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:56:57.276804",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T19:57:14.578528",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:22:06.807746",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:23:10.653562",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "addition of two no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:23:50.914600",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:24:02.876731",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "def add_numbers(a: float, b: float) -> float:\n    \"\"\"\n    Calculates the sum of two numbers.\n\n    Th",
+        "language": "",
+        "rating": 5,
+        "comments": "good "
+    },
+    {
+        "timestamp": "2025-11-11T20:24:10.439447",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "addition of two no",
+        "language": "",
+        "rating": 5,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:26:41.249314",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T20:33:26.776358",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:20:12.872417",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:21:24.557538",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check eligibility for code",
+        "language": "C++",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:21:43.841305",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code to check eligibility for code",
+        "language": "",
+        "rating": 4,
+        "comments": "Super code"
+    },
+    {
+        "timestamp": "2025-11-12T14:28:45.367615",
+        "user_id": "ai_assistant",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:29:21.908913",
+        "user_id": "ai_assistant",
+        "activity_type": "query",
+        "query": "Write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:29:42.422348",
+        "user_id": "ai_assistant",
+        "activity_type": "query",
+        "query": "Write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:30:05.046211",
+        "user_id": "ai_assistant",
+        "activity_type": "feedback",
+        "query": "Write a code to check palindrome of a no",
+        "language": "",
+        "rating": 5,
+        "comments": "Nice Generation and Explanation "
+    },
+    {
+        "timestamp": "2025-11-12T16:09:10.596594",
+        "user_id": "ram@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:09:48.230727",
+        "user_id": "ram@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check eligibility for vote",
+        "language": "JavaScript",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:10:30.638700",
+        "user_id": "ram@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code to check eligibility for vote",
+        "language": "",
+        "rating": 5,
+        "comments": "Nice code"
+    },
+    {
+        "timestamp": "2025-11-12T16:29:00.013075",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:29:29.672662",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:46:41.753694",
+        "user_id": "13579",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:47:51.988377",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:48:25.484231",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:49:47.330789",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:50:07.907686",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "",
+        "rating": 5,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:52:36.473656",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:53:55.073212",
+        "user_id": "13579",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:54:34.867290",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:54:41.064412",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "",
+        "rating": 4,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-12T16:54:42.795249",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "Give me code which uses Artificial neural network.",
+        "language": "",
+        "rating": 4,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-12T16:56:25.382934",
+        "user_id": "raghu@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T17:00:33.308572",
+        "user_id": "13579",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T17:06:36.675111",
+        "user_id": "raghu@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T17:07:49.264464",
+        "user_id": "raghu@gmail.com",
+        "activity_type": "query",
+        "query": "generate a code to check the given no is even or odd",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T17:08:08.872758",
+        "user_id": "raghu@gmail.com",
+        "activity_type": "query",
+        "query": "generate a code to check the given no is even or odd",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T17:08:25.726895",
+        "user_id": "raghu@gmail.com",
+        "activity_type": "feedback",
+        "query": "generate a code to check the given no is even or odd",
+        "language": "",
+        "rating": 5,
+        "comments": "Super bro"
+    },
+    {
+        "timestamp": "2025-11-12T19:04:25.595150",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:06:22.449051",
+        "user_id": "13579",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:08:47.017466",
+        "user_id": "Ash526",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:09:32.001206",
+        "user_id": "Smartphone@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:09:38.714860",
+        "user_id": "Ash526",
+        "activity_type": "query",
+        "query": "A python function for palindrome ",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:10:06.029902",
+        "user_id": "Ash526",
+        "activity_type": "query",
+        "query": "A python function for palindrome ",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:11:57.913295",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:14:12.856182",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": "write a query to check which employee's salary is greater than other",
+        "language": "SQL",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:18:40.916985",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": "write a query to check which employee's salary is greater than other",
+        "language": "SQL",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:19:00.838971",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": "write a query to check which employee's salary is greater than other",
+        "language": "SQL",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:19:19.649066",
+        "user_id": "raj@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a query to check which employee's salary is greater than other",
+        "language": "",
+        "rating": 4,
+        "comments": "Cool"
+    },
+    {
+        "timestamp": "2025-11-12T19:23:11.200829",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "SQL",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:24:34.624603",
+        "user_id": "raj@gmail.com",
+        "activity_type": "feedback",
+        "query": "SELECT\n    E1.EmployeeID,\n    E1.Name,\n    E1.Salary\nFROM\n    Employees E1\nWHERE\n    EXISTS (\n      ",
+        "language": "",
+        "rating": 5,
+        "comments": "Cool"
+    },
+    {
+        "timestamp": "2025-11-12T19:29:34.823097",
+        "user_id": "piyushmanitiwari500@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:30:29.503977",
+        "user_id": "piyushmanitiwari500@gmail.com",
+        "activity_type": "query",
+        "query": "give me code for adding two numbers\n",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:30:57.235451",
+        "user_id": "piyushmanitiwari500@gmail.com",
+        "activity_type": "feedback",
+        "query": "give me code for adding two numbers\n",
+        "language": "",
+        "rating": 2,
+        "comments": "code is lengthy"
+    },
+    {
+        "timestamp": "2025-11-12T19:31:16.353364",
+        "user_id": "piyushmanitiwari500@gmail.com",
+        "activity_type": "query",
+        "query": "give me code for adding two numbers\n",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:43:02.052351",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T19:52:14.461218",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "give me code for adding two numbers",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:09:21.674098",
+        "user_id": "13579",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:10:24.780458",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:10:39.629869",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:11:25.487223",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:11:49.733743",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "",
+        "rating": 4,
+        "comments": "Good "
+    },
+    {
+        "timestamp": "2025-11-12T20:14:59.281804",
+        "user_id": "13579",
+        "activity_type": "query",
+        "query": null,
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:15:19.294588",
+        "user_id": "13579",
+        "activity_type": "feedback",
+        "query": "import numpy as np\nfrom sklearn.datasets import load_iris\nfrom sklearn.model_selection import train_",
+        "language": "",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T20:17:56.862046",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T21:33:47.792623",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T21:34:16.405410",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T21:34:36.591039",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T21:34:48.118602",
+        "user_id": "yash@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code to check palindrome of a no",
+        "language": "",
+        "rating": 5,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-12T21:36:03.745687",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:32:19.690629",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:33:39.862712",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": "write a code for artificial neural network",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:34:16.762662",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": "write a code for artificial neural network",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:34:33.398213",
+        "user_id": "raj@gmail.com",
+        "activity_type": "feedback",
+        "query": "write a code for artificial neural network",
+        "language": "",
+        "rating": 5,
+        "comments": "Nice one"
+    },
+    {
+        "timestamp": "2025-11-13T00:39:55.435945",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:43:07.685574",
+        "user_id": "lovanshi.raj18@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:43:12.105561",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:44:31.021264",
+        "user_id": "lovanshi.raj18@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:45:22.686312",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:47:22.091350",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:47:38.047165",
+        "user_id": null,
+        "activity_type": "logout",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:48:38.649734",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:49:48.684732",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:50:51.768605",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Other",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:51:33.678459",
+        "user_id": "raj@gmail.com",
+        "activity_type": "query",
+        "query": null,
+        "language": "Other",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T00:51:56.187201",
+        "user_id": "raj@gmail.com",
+        "activity_type": "feedback",
+        "query": "import numpy as np\nfrom sklearn.neural_network import MLPClassifier\nfrom sklearn.model_selection imp",
+        "language": "",
+        "rating": 5,
+        "comments": "Nice explanation"
+    },
+    {
+        "timestamp": "2025-11-13T09:47:17.928592",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T09:58:23.365602",
+        "user_id": "raj@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T10:35:20.431474",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T10:36:07.634542",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T10:36:09.565741",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T10:36:09.769409",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T10:36:10.801035",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "write a code to check palindrome of a no",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T13:59:00.282180",
+        "user_id": "yash@gmail.com",
+        "activity_type": "login",
+        "query": "",
+        "language": "",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T14:00:10.708293",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T14:00:13.110571",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T14:00:14.002748",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-13T14:02:19.256373",
+        "user_id": "yash@gmail.com",
+        "activity_type": "query",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "language": "Python",
+        "rating": 0,
+        "comments": ""
+    }
+]

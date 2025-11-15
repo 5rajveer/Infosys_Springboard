@@ -1,0 +1,233 @@
+[
+    {
+        "timestamp": "2025-11-09T20:39:23.772706",
+        "user_id": "583ce138-c9ff-48fb-98d4-e061a19289ea",
+        "query": "write a python function to check palindrome of a no",
+        "rating": 4,
+        "comments": "nice"
+    },
+    {
+        "timestamp": "2025-11-09T20:48:49.412658",
+        "user_id": "02f00518-97fc-4cb7-b60f-f37d4619bdbd",
+        "query": "write a python function to check the given no is odd or even",
+        "rating": 5,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-09T20:59:14.294336",
+        "user_id": "45ee200e-8fa1-4268-9641-f2e4f07949a0",
+        "query": "write a code to check a person is eligible for vote or not on the basis of age",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-09T21:18:37.496546",
+        "user_id": "5ab7ed2a-db7d-4baa-b376-880979badf32",
+        "query": "Addition of two no",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-09T22:30:34.730364",
+        "user_id": "8883213e-9380-4a84-8dae-120e14a66886",
+        "query": "Write a code for triangle star printing",
+        "rating": 5,
+        "comments": "Nice code"
+    },
+    {
+        "timestamp": "2025-11-09T22:32:23.289505",
+        "user_id": "8883213e-9380-4a84-8dae-120e14a66886",
+        "query": "Write a code for triangle star printing",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-10T16:49:59.991589",
+        "user_id": "db7bfb2c-4b91-4614-b542-6ff86d33eeed",
+        "query": "write a code to print smile face",
+        "rating": 5,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-11T15:10:02.621765",
+        "user_id": "aiassistant@gmail.com",
+        "query": "addition of two no",
+        "rating": 5,
+        "comments": "Very nice code"
+    },
+    {
+        "timestamp": "2025-11-11T15:43:24.081703",
+        "user_id": "aiassistant@gmail.com",
+        "query": "division of two no",
+        "rating": 4,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T17:03:18.872449",
+        "user_id": "aiassistant@gmail.com",
+        "query": "write a code to check palindrome",
+        "rating": 4,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T18:18:32.454575",
+        "user_id": "ai_1@gmail.com",
+        "query": "generate a code to check candidate is available for vote",
+        "rating": 5,
+        "comments": "nice code"
+    },
+    {
+        "timestamp": "2025-11-11T18:22:58.448411",
+        "user_id": "ai_1@gmail.com",
+        "query": "from typing import List\n\ndef calculate_average(numbers: List[float]) -> float:\n    \"\"\"\n    Calculate",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-11T18:23:10.758354",
+        "user_id": "ai_1@gmail.com",
+        "query": "from typing import List\n\ndef calculate_average(numbers: List[float]) -> float:\n    \"\"\"\n    Calculate",
+        "rating": 4,
+        "comments": "nice explanation "
+    },
+    {
+        "timestamp": "2025-11-11T19:26:07.978243",
+        "user_id": "yash@gmail.com",
+        "query": "write a code to check which no is greater in given three numbers ",
+        "rating": 4,
+        "comments": "good"
+    },
+    {
+        "timestamp": "2025-11-11T19:30:00.273694",
+        "user_id": "yash@gmail.com",
+        "query": "def find_greatest(num1: int | float, num2: int | float, num3: int | float) -> int | float:\n    \"\"\"\n ",
+        "rating": 5,
+        "comments": "Good Explanation "
+    },
+    {
+        "timestamp": "2025-11-11T20:24:02.870130",
+        "user_id": "yash@gmail.com",
+        "query": "def add_numbers(a: float, b: float) -> float:\n    \"\"\"\n    Calculates the sum of two numbers.\n\n    Th",
+        "rating": 5,
+        "comments": "good "
+    },
+    {
+        "timestamp": "2025-11-11T20:24:10.383030",
+        "user_id": "yash@gmail.com",
+        "query": "addition of two no",
+        "rating": 5,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T14:21:43.793487",
+        "user_id": "yash@gmail.com",
+        "query": "write a code to check eligibility for code",
+        "rating": 4,
+        "comments": "Super code"
+    },
+    {
+        "timestamp": "2025-11-12T14:30:05.015425",
+        "user_id": "ai_assistant",
+        "query": "Write a code to check palindrome of a no",
+        "rating": 5,
+        "comments": "Nice Generation and Explanation "
+    },
+    {
+        "timestamp": "2025-11-12T16:10:30.604750",
+        "user_id": "ram@gmail.com",
+        "query": "write a code to check eligibility for vote",
+        "rating": 5,
+        "comments": "Nice code"
+    },
+    {
+        "timestamp": "2025-11-12T16:50:07.890612",
+        "user_id": "13579",
+        "query": "Give me code which uses Artificial neural network.",
+        "rating": 5,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:54:34.854924",
+        "user_id": "13579",
+        "query": "Give me code which uses Artificial neural network.",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T16:54:41.020244",
+        "user_id": "13579",
+        "query": "Give me code which uses Artificial neural network.",
+        "rating": 4,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-12T16:54:42.743058",
+        "user_id": "13579",
+        "query": "Give me code which uses Artificial neural network.",
+        "rating": 4,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-12T17:08:25.716120",
+        "user_id": "raghu@gmail.com",
+        "query": "generate a code to check the given no is even or odd",
+        "rating": 5,
+        "comments": "Super bro"
+    },
+    {
+        "timestamp": "2025-11-12T19:19:19.641978",
+        "user_id": "raj@gmail.com",
+        "query": "write a query to check which employee's salary is greater than other",
+        "rating": 4,
+        "comments": "Cool"
+    },
+    {
+        "timestamp": "2025-11-12T19:24:34.618658",
+        "user_id": "raj@gmail.com",
+        "query": "SELECT\n    E1.EmployeeID,\n    E1.Name,\n    E1.Salary\nFROM\n    Employees E1\nWHERE\n    EXISTS (\n      ",
+        "rating": 5,
+        "comments": "Cool"
+    },
+    {
+        "timestamp": "2025-11-12T19:30:57.232898",
+        "user_id": "piyushmanitiwari500@gmail.com",
+        "query": "give me code for adding two numbers\n",
+        "rating": 2,
+        "comments": "code is lengthy"
+    },
+    {
+        "timestamp": "2025-11-12T20:11:49.614562",
+        "user_id": "13579",
+        "query": "Give me code on Artificial neural network with using california or iris dataset.",
+        "rating": 4,
+        "comments": "Good "
+    },
+    {
+        "timestamp": "2025-11-12T20:15:19.231122",
+        "user_id": "13579",
+        "query": "import numpy as np\nfrom sklearn.datasets import load_iris\nfrom sklearn.model_selection import train_",
+        "rating": 4,
+        "comments": ""
+    },
+    {
+        "timestamp": "2025-11-12T21:34:48.109206",
+        "user_id": "yash@gmail.com",
+        "query": "write a code to check palindrome of a no",
+        "rating": 5,
+        "comments": "Good"
+    },
+    {
+        "timestamp": "2025-11-13T00:34:33.380785",
+        "user_id": "raj@gmail.com",
+        "query": "write a code for artificial neural network",
+        "rating": 5,
+        "comments": "Nice one"
+    },
+    {
+        "timestamp": "2025-11-13T00:51:56.168952",
+        "user_id": "raj@gmail.com",
+        "query": "import numpy as np\nfrom sklearn.neural_network import MLPClassifier\nfrom sklearn.model_selection imp",
+        "rating": 5,
+        "comments": "Nice explanation"
+    }
+]
